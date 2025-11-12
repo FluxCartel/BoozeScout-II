@@ -1,0 +1,9 @@
+{
+  "name": "BoozeScout Agent",
+  "description": "An AI-powered assistant to find the best local prices for beer, wine, and spirits using price scouting, a chat assistant, and a voice-controlled live agent.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
