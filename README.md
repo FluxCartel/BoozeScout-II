@@ -5,7 +5,7 @@ An AI-powered assistant to find the best local prices for beer, wine, and spirit
 
 ## ✨ Features
 
--   **Price Scout:** A powerful search interface to find beverage prices from local stores.
+-   **Price Scout:** A robust search interface to find beverage prices from local stores.
     -   Search by product name.
     -   Filter by category, sub-category, and variety.
     -   Scan a product's barcode to search automatically.
